@@ -1,65 +1,132 @@
-<h1 align="center">Hi, I'm Prakeya 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=180&section=header&text=Prakeya%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Student%20%7C%20Builder%20%7C%20Writer&descAlignY=55&descSize=16" width="100%"/>
 
-<p align="center">
-  <i>Teaching machines to think, and words to feel.</i>
-</p>
+<div align="center">
+
+```txt
+while (learning) {
+  build();
+  break_things();
+  write_poetry();
+  try_again();
+}
+```
+
+<i>Teaching machines to think, and words to feel.</i>
+
+</div>
 
 ---
 
-## 🌌 About Me
+<table>
+<tr>
+<td width="55%">
 
-🎓 B.Tech CSE (Artificial Intelligence) Student
+## 🧠 About Me
 
-🤖 Exploring AI, Machine Learning & Software Development
+```yaml
+name: Prakeya S
+role: CSE (Artificial Intelligence) Student
+university: Amrita Vishwa Vidyapeetham
+currently_learning:
+  - Machine Learning
+  - Deep Learning
+  - Data Structures
+  - Web Development
+creative_side:
+  - Poetry
+  - Content Writing
+  - Tech Explainers
+```
 
-✍️ Published Poet and Content Writer
+</td>
+<td width="45%">
 
-🚀 Building projects and learning every day
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-🧬 DrugLens Research  
-Drug-Drug Interaction Prediction using Graph Neural Networks
+<table>
+<tr>
+<td>
 
-🤖 Hypothesis Intelligence Engine  
-AI-powered reasoning and hypothesis verification system
+### 🧬 DrugLens Research
+Drug-Drug Interaction prediction using Graph Neural Networks.
 
-📚 AI Study Planner  
-Smart scheduling using graph algorithms
+</td>
+<td>
 
-✍️ Content Writing Portfolio  
-Technical and creative writing projects
+### 🤖 Hypothesis Intelligence Engine
+AI-powered reasoning and hypothesis verification system.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 📚 AI Study Planner
+Smart scheduling using graph algorithms and priority queues.
+
+</td>
+<td>
+
+### ✍️ Writing Portfolio
+Technical blogs, content writing, and poetry.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-Python • Java • C
-
-HTML • CSS • JavaScript
-
-Git • GitHub • VS Code
-
-Machine Learning • AI • Streamlit
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode" />
+</p>
 
 ---
 
 ## ✍️ Writing Corner
 
-Beyond code, I write poetry and technical content.
+```txt
+Some bugs need debugging.
+Some thoughts need poetry.
+```
 
-I enjoy translating complex ideas into words that people can understand.
+I write technical content and poetry, blending logic with language.
 
-> Some problems are solved with algorithms. Others require language.
+---
+
+## 📊 GitHub Pulse
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Prakeya&show_icons=true&theme=tokyonight&hide_border=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakeya&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect
 
-LinkedIn: (Add your LinkedIn)
+<p align="center">
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Portfolio: (Add your Portfolio)
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
 
-Email: (Add your Email)
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=120&section=footer" width="100%"/>
