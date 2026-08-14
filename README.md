@@ -1,52 +1,33 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://avatars.githubusercontent.com/Prakeya" width="120" style="border-radius:50%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=45&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&width=500&height=70&lines=PRAKEYA" />
+<h1>Prakeya</h1>
+<h4>AI Student @ Amrita Vishwa Vidyapeetham</h4>
 
-<h3 style="color:#B794F6">AI Student @ Amrita Vishwa Vidyapeetham</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=E9D8FD&center=true&vCenter=true&width=650&lines=Building+intelligent+systems;Exploring+Machine+Learning+%26+Graph+Neural+Networks;Writing+about+AI+and+Research" />
-
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakeya-s-b74ba93a5)
-[![Writing Portfolio](https://img.shields.io/badge/Writing_Portfolio-A78BFA?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Prakeya-S-Content-Writer-Portfolio-34b9dd4c92bf80979e48d1993da8ff3b)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakeyshakthivel@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&width=500&lines=Hello+World;system+online+%E2%80%94+welcome" />
 
 </div>
 
 ---
 
-<div align="center">
+### whoami
 
-## About Me
+I'm **Prakeya**, a Computer Science (Artificial Intelligence) student at **Amrita Vishwa Vidyapeetham**. I build intelligent systems — from graph neural networks predicting drug interactions, to AI agents that write, reason, and route information.
 
-</div>
-
-<table width="100%">
-<tr>
-<td>
-
-Computer Science (Artificial Intelligence) student at **Amrita Vishwa Vidyapeetham**.
-
-I build intelligent systems — from graph neural networks predicting drug interactions, to AI agents that write, reason, and route information. My interests sit at the intersection of **AI, software engineering, research, and creativity**.
+My interests sit at the intersection of AI, software engineering, research, and creativity. I'm currently exploring autonomous AI agents, graph-based ML, and writing about human-AI interaction.
 
 > Some systems solve problems. Some words explain them. I enjoy both.
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,c,html,css,react,git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
-<div align="center">
-
-## Pinned & Recent Work
-
-</div>
+### Pinned & Recent Work
 
 <table width="100%">
 
@@ -149,18 +130,14 @@ Optimization algorithms implemented in C — greedy and DP approaches for Manhat
 
 <div align="center">
 
-## Stack
+### GitHub Activity
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,c,html,css,react,git,github,vscode&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prakeya&show_icons=true&theme=tokyonight&hide_border=true&title_color=B794F6&icon_color=B794F6&text_color=ffffff&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakeya&layout=compact&theme=tokyonight&hide_border=true&title_color=B794F6&text_color=ffffff&bg_color=0D1117" height="165"/>
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakeya&theme=tokyonight&hide_border=true&ring=B794F6&fire=B794F6&currStreakLabel=B794F6&background=0D1117" />
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-A78BFA?style=for-the-badge)
-![Graph Neural Networks](https://img.shields.io/badge/Graph%20Neural%20Networks-7C3AED?style=for-the-badge)
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8B5CF6?style=for-the-badge)
-![Research](https://img.shields.io/badge/Research-A78BFA?style=for-the-badge)
-![Technical Writing](https://img.shields.io/badge/Technical%20Writing-7C3AED?style=for-the-badge)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakeya&theme=react-dark&hide_border=true&bg_color=0D1117&color=B794F6&line=B794F6&point=E9D8FD" />
 
 </div>
 
@@ -168,22 +145,10 @@ Optimization algorithms implemented in C — greedy and DP approaches for Manhat
 
 <div align="center">
 
-## GitHub Stats
+### let's build something
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prakeya&show_icons=true&theme=tokyonight&hide_border=true&title_color=B794F6&icon_color=B794F6&text_color=ffffff&bg_color=0D1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakeya&layout=compact&theme=tokyonight&hide_border=true&title_color=B794F6&text_color=ffffff&bg_color=0D1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakeya&theme=tokyonight&hide_border=true&ring=B794F6&fire=B794F6&currStreakLabel=B794F6&background=0D1117"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### Teaching machines to think, and words to feel.
-Always learning. Always building.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakeya-s-b74ba93a5)
+[![Writing Portfolio](https://img.shields.io/badge/Writing_Portfolio-A78BFA?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Prakeya-S-Content-Writer-Portfolio-34b9dd4c92bf80979e48d1993da8ff3b)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakeyshakthivel@gmail.com)
 
 </div>
